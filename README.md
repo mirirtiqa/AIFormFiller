@@ -1,2 +1,2 @@
 # AIFormFiller
-This project uses AI Voice Assistant to help fill out the form
+This project uses AI Voice Assistant to help the user fill out the form
